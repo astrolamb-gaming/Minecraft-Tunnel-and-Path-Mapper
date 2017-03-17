@@ -1,5 +1,5 @@
 ### Minecraft Map Maker
-# Copyright (C) 2016 Suvw'I_quv
+# Copyright (C) 2016 AstroLamb
 
 # This program is a free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -16,12 +16,12 @@
 
 
 
-##* = Definitely needed.
+
 
 from __future__ import division
 from __future__ import absolute_import
-from __future__ import print_function #*
-from visual import * #*
+from __future__ import print_function
+from visual import *
 import math
 
 
